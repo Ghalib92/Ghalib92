@@ -1,16 +1,25 @@
--  Hi, I’m Mohammed Ghalib
-- 👀 I’m interested in full stack devolpment
-- 🌱 I’m currently learning Front end develpment
-- 💞️ I’m looking to collaborate on any project idea you may have or want us to work on
-- 📫 How to reach me:
--       phone number:0758299089
--       E-mail:ghalibmohammad92@gmail.com
-- ⚡ Fun fact:
--   love to code all the time
--   Good in swimming
--   Loves travelling a lot
+ 👋 Hi there, I'm Mohammad Ghalib
 
-<!---
-Ghalib92/Ghalib92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Software Developer and founder of Alpha Studios, where we craft modern, high-performance, mobile friendly websites and full production ready systems. With a strong foundation in JavaScript, bootsatrap, Django, and all Python Applications, I love solving problems and building projects that make a real impact.
+
+💼 What I Do
+- 🚀 Full-stack web development & AI Implementations
+- 🧠 AI & API integrations
+- 🎯 UI/UX design with performance in mind
+- ⏱️ Deadline-driven development (we deliver on time!)
+
+🛠️ Tech I Use
+- JavaScript / React 
+- Bootstrap
+- Python / Django / RestAPI
+- Bootstrap 
+- Git / GitHub / Docker
+
+🌍 Let's Connect
+ - Deatails on Bio
+- 📧 ghalibmohammad92@gmail.com
+- 💬 Open to collaboration on exciting projects!
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
