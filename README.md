@@ -1,76 +1,107 @@
-# 🚀 Mohammed Ghalib  
-### Software Engineer | Full-Stack Developer | AI Engineer  
+# 🚀 Mohammed Ghalib
+### 💻 Software Engineer | Full-Stack Developer | AI Systems Engineer
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ghalib92&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am **Mohammed Ghalib**, a results-driven **Software Engineer** specializing in full-stack development and AI-powered systems.  
+I am a **Full-Stack Software Engineer** building scalable web applications and AI-powered systems.
 
-I design and build scalable, production-grade applications with clean architecture, strong backend logic, and modern frontend experiences.
+🔹 Frontend systems engineered with performance and UX in mind  
+🔹 Backend architectures designed for scalability  
+🔹 AI systems powered by Retrieval-Augmented Generation (RAG)  
 
-I don’t just write code — I engineer systems.
-
----
-
-## 🧠 Core Expertise
-
-### 🔷 Frontend Engineering
-- React (Modern Hooks, Context, Advanced Patterns)
-- TypeScript (Strict typing, scalable codebases)
-- Tailwind CSS (Utility-first, responsive systems)
-- Bootstrap (Rapid UI development)
-- REST API integration
-- Dynamic UI architectures
-- Performance optimization
-
-I build fast, responsive, and highly interactive interfaces that scale.
+I build production-ready systems — not prototypes.
 
 ---
 
-### 🔶 Backend Engineering
-- Django
-- Django REST Framework (DRF)
-- Flask
-- PostgreSQL (Relational schema design, optimization)
-- Authentication & Authorization systems
-- API architecture & serialization
-- Secure payment integrations (e.g., M-Pesa STK push)
-- Production-ready backend systems
+# 🛠 Tech Stack
 
-I focus on clean architecture, maintainability, and performance.
+## 🎨 Frontend
 
----
-
-### 🤖 AI & Generative Systems
-
-I design and implement **Retrieval-Augmented Generation (RAG)** pipelines and intelligent chatbot systems.
-
-- Vector Databases:
-  - Chroma
-  - Pinecone
-- Embeddings & semantic search
-- Context-aware AI chat systems
-- Document ingestion pipelines (PDF, structured data)
-- Conversational memory systems
-- Knowledge-based AI assistants
-
-I build AI systems that are not demos — but usable, structured, and scalable.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
-## 🏗️ What I Build
+## ⚙️ Backend
 
-- Full-stack SaaS platforms  
-- Enterprise dashboards  
-- Dynamic form builders  
-- AI-powered legal & knowledge assistants  
-- Payment-integrated systems  
-- Executive & role-based access systems  
-- RESTful APIs with production standards  
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack Overview
+## 🤖 AI Engineering
 
-**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/RAG-Generative%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chroma-VectorDB-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-Integration-orange?style=for-the-badge" />
+</p>
+
+✔️ Semantic Search  
+✔️ Embeddings Pipelines  
+✔️ Context-Aware Chatbots  
+✔️ Knowledge Retrieval Systems  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghalib92&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghalib92&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ghalib92&theme=tokyonight" />
+</p>
+
+---
+
+# 🏗 What I Build
+
+- SaaS Applications  
+- Enterprise Dashboards  
+- Role-Based Systems  
+- Payment Integrations (M-Pesa STK Push)  
+- AI Knowledge Assistants  
+- RAG-based Chatbots  
+- Dynamic Form Builders  
+
+---
+
+# 🧠 Engineering Principles
+
+- Clean Architecture  
+- Type-Safe Systems  
+- Scalable Backend Design  
+- Performance-Driven Frontend  
+- Practical AI Implementation  
+
+---
+
+# 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ghalib92)
+
+---
+
+### ⚡ Engineering intelligent systems. Not just writing code.
