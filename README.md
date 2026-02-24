@@ -1,29 +1,76 @@
- 👋 Hi there, I'm Mohammad Ghalib
-
-I'm a passionate Software Developer and founder of Alpha Studios, where we craft modern, high-performance, mobile friendly websites and full production ready systems. With a strong foundation in JavaScript, bootstrap, Django, and all Python Applications, I love solving problems and building projects that make a real impact.
-
-💼 What I Do
-- 🚀 Full-stack web development & AI Implementations
-- 🧠 AI & API integrations
-- 🎯 UI/UX design with performance in mind
-- ⏱️ Deadline-driven development (we deliver on time!)
-- 📃Full Project documentation
-- 📄Quality Proposals
-
-🛠️ Tech I Use
-- JavaScript / React 
-- Bootstrap
-- Python / Django / RestAPI
-- Bootstrap 
-- Git / GitHub / Docker
-- HTML5
-  
-
-🌍 Let's Connect
- - Deatails on Bio
-- 📧 ghalibmohammad92@gmail.com
-- 💬 Open to collaboration on exciting projects!
+# 🚀 Mohammed Ghalib  
+### Software Engineer | Full-Stack Developer | AI Engineer  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 👨‍💻 About Me
+
+I am **Mohammed Ghalib**, a results-driven **Software Engineer** specializing in full-stack development and AI-powered systems.  
+
+I design and build scalable, production-grade applications with clean architecture, strong backend logic, and modern frontend experiences.
+
+I don’t just write code — I engineer systems.
+
+---
+
+## 🧠 Core Expertise
+
+### 🔷 Frontend Engineering
+- React (Modern Hooks, Context, Advanced Patterns)
+- TypeScript (Strict typing, scalable codebases)
+- Tailwind CSS (Utility-first, responsive systems)
+- Bootstrap (Rapid UI development)
+- REST API integration
+- Dynamic UI architectures
+- Performance optimization
+
+I build fast, responsive, and highly interactive interfaces that scale.
+
+---
+
+### 🔶 Backend Engineering
+- Django
+- Django REST Framework (DRF)
+- Flask
+- PostgreSQL (Relational schema design, optimization)
+- Authentication & Authorization systems
+- API architecture & serialization
+- Secure payment integrations (e.g., M-Pesa STK push)
+- Production-ready backend systems
+
+I focus on clean architecture, maintainability, and performance.
+
+---
+
+### 🤖 AI & Generative Systems
+
+I design and implement **Retrieval-Augmented Generation (RAG)** pipelines and intelligent chatbot systems.
+
+- Vector Databases:
+  - Chroma
+  - Pinecone
+- Embeddings & semantic search
+- Context-aware AI chat systems
+- Document ingestion pipelines (PDF, structured data)
+- Conversational memory systems
+- Knowledge-based AI assistants
+
+I build AI systems that are not demos — but usable, structured, and scalable.
+
+---
+
+## 🏗️ What I Build
+
+- Full-stack SaaS platforms  
+- Enterprise dashboards  
+- Dynamic form builders  
+- AI-powered legal & knowledge assistants  
+- Payment-integrated systems  
+- Executive & role-based access systems  
+- RESTful APIs with production standards  
+
+---
+
+## ⚙️ Tech Stack Overview
+
+**Frontend**
