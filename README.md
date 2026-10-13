@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&center=true&vCenter=true&width=820&lines=AI+%2F+RAG+Engineer+%E2%80%A2+Full-Stack+Engineer;Python+%2F+Django+REST+%C2%B7+React+%2F+TypeScript;I+build+production+AI+you+can+trust+%E2%80%94+not+just+demos;RAG+%E2%80%A2+LangChain+%E2%80%A2+Vector+DBs+%E2%80%A2+Grounded+Citations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Agentic+Systems+%E2%80%A2+RAG+%E2%80%A2+LLM+Apps;Multi-agent+systems+with+LangGraph+%2B+Temporal;Grounded%2C+cited%2C+evaluated+%E2%80%94+AI+that+ships+on+evidence;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,93 +17,91 @@
 
 ## 👨‍💻 About Me
 
-Full-stack software engineer based in **Nairobi, Kenya** with **3+ years** shipping production systems end-to-end — **Python / Django REST** on the backend, **React / TypeScript** on the frontend, containerised with PostgreSQL, Redis, Celery, JWT auth and CI/CD.
+AI and software engineer based in **Nairobi, Kenya** who takes products from a business problem to a **live, dependable platform**. I own the full stack — backend, frontend, the AI layer, deployment and operations — with a focus on **agentic and retrieval-based AI that is grounded, verifiable and reliable**.
 
-I specialise in **production AI**: retrieval-augmented (RAG) systems built to be **trustworthy, not just impressive** — similarity-thresholded retrieval, reranking, refusal on low confidence, and source-grounded citations.
+- 🧠 **AI & Software Engineer at Datawise Africa** — engineering the company's AI products:
+  - ⚖️ **[Sheria AI](https://sheria.africa)** — agentic RAG legal research platform for Kenyan law, answering with cited provisions from the Constitution, statutes and case law; live with advocates and law students
+  - 🎯 **Pursuit** — multi-agent platform that finds grants, tenders, fellowships and jobs matched to a profile, verifies and scores each, and drafts tailored proposals for human review
+- 🏗️ **Software Engineer at [Digital Appex](https://digitalappex.co.ke)** — delivered client AI systems end to end (support chatbots, document-grounded assistants, dashboards) and owned the company's commerce platform and its AI assistant
+- 🌸 **Software Engineer at Bee MultiScent** — built the AI behind a smart scent diffuser (what to release, when and how much) and the operations portal the business runs on
+- 🕌 **[Ummly](https://ummly.co.ke)** — AI research platform that grounds and cites every answer from its in-platform library; shipped web and mobile
+- 🎓 **BBIT — Mount Kenya University** (Major: Software Development & AI) · AI Engineer & Backend Engineer certified
 
-- 🧠 AI / RAG Engineer at **Datawise Africa** — own **[Sheria AI](https://sheria.africa)**, an AI legal assistant for Kenyan law, end-to-end
-- 🏗️ Full-stack & AI product work at **Digital Appex** — shipped **[digitalappex.co.ke](https://digitalappex.co.ke)**
-- 🕌 Built **[Ummly](https://ummly.co.ke)** solo (backend, web & mobile) — an Islamic knowledge platform with a Qur'an/Hadith RAG assistant
-- 🏦 Enterprise systems support (Oracle Fusion) at **Kenya Commercial Bank (KCB)**
-- 🎓 BBIT — Mount Kenya University (Software Development & AI)
-
-> I build production-ready systems — with end-to-end ownership: architecture → backend → frontend → deployment.
+> Equally effective owning a product alone or as part of a team — with a record of on-time delivery and measurable results.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Agentic Systems & LLMs**
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
+
+**Retrieval & Vector Search**
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+**Languages & Backend**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Backend**
-<p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-**Frontend**
+**Frontend & Mobile**
 <p>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Router_7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**AI / RAG Engineering**
+**Production & Infra**
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLaMA_3.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-**Data & Infra · DevOps**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 🧠 How I Build AI
 
-### Production products (live)
-| Project | What it is | Stack highlights |
-| --- | --- | --- |
-| 🏛️ **[Sheria AI](https://sheria.africa)** | AI legal assistant for Kenyan law | Django REST · LangChain · ChromaDB · LLaMA-3.1/Groq · React Router 7 (SSR) · triage→answer RAG with grounded citations |
-| 🕌 **[Ummly](https://ummly.co.ke)** | Qur'an & Hadith knowledge platform | Django REST · Pinecone RAG · bge-reranker · bilingual EN/AR · React Native (Expo) + SSR web |
-| 🛒 **[Digital Appex](https://digitalappex.co.ke)** | E-commerce + quotes/warranties + chatbot | Django 6 / DRF (50 endpoints) · Paystack · Celery · React 19 + Vite |
-| 🤝 **[Collaborative Approach](https://collaborativeapproach.africa)** | Referral & tour-booking SaaS | DRF · M-Pesa STK · PayPal · Stripe · role-based portals |
+**🤖 Agentic by design**
+- **LangGraph multi-agent orchestration** — supervisor, tool-calling workers, verifier and judge agents
+- **Temporal durable workflows** so long-running agent runs survive failures and resume cleanly
+- **Human-in-the-loop approval**, structured outputs, run budgets and full run traceability
 
-### Open-source showcases (pinned below)
-| Repo | Focus |
-| --- | --- |
-| 🤖 **Recipe Chatbot (AI RAG)** | Flask RAG microservice — grounding guard + evaluation harness |
-| 🏥 **Hospital Booking (AI RAG)** | Django REST booking platform + RAG medical assistant |
-| 👗 **Atelier Fashion Store (AI RAG)** | DRF e-commerce + M-Pesa payments + RAG assistant |
-| 🧠 **Mental Health Chatbot (RAG)** | DRF RAG chatbot with a crisis-safety layer |
-| 💼 **Students Part-Time Jobsite** | Role-based jobs platform — messaging, payments, token auth |
-| 📰 **News Feed System** | Clean Django REST API with JWT + admin analytics |
+**📚 Grounded, not guessing**
+- Agentic retrieval over vector search with **hybrid search, reranking and tuned chunking**
+- **Confidence thresholds with refusal** — when the evidence isn't there, the system says so
+- **Source citations on every answer**, so users can verify
+
+**📏 Ships on evidence**
+- **LLM-as-a-judge**, blind **A/B comparison**, scorecards and eval datasets on every change
+- **Deterministic tests with stubbed models in CI** — AI behaviour is tested, not assumed
+
+**🛡️ Reliable in production**
+- **Multi-model routing, tiering and failover** across OpenAI, Groq, Gemini and DeepSeek
+- **Versioned prompts as configuration**, prompt-injection defence and graceful degradation
+- Containerised deploys with **monitoring, automated backups and security hardening**
 
 ---
 
@@ -128,16 +126,6 @@ I specialise in **production AI**: retrieval-augmented (RAG) systems built to be
 
 ---
 
-## 🧠 How I Build AI
-
-- **Grounded, not guessing** — similarity-thresholded retrieval with refusal on low confidence
-- **Source citations** on every answer, so users can verify
-- **Reranking** (bge-reranker-v2-m3) for relevance, **intent routing** for scope control
-- **Evaluation suites** — RAG quality is measured with regression cases, not assumed
-- **Multi-provider LLMs** (OpenAI · LLaMA-3.1/Groq · Gemini) with fallback orchestration
-
----
-
 ## 📫 Connect
 
 <p>
@@ -147,4 +135,4 @@ I specialise in **production AI**: retrieval-augmented (RAG) systems built to be
   <a href="https://github.com/Ghalib92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⚡ Engineering intelligent systems you can trust — not just writing code.</i></p>
+<p align="center"><i>⚡ Agentic, grounded, evaluated — AI built to be trusted in production.</i></p>
